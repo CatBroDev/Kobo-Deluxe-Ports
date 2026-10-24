@@ -1,3 +1,15 @@
+# Kobo Deluxe browser restoration
+
+[Play online](https://oldgamesarchive.org/games/kobodeluxe) · [中文试玩](https://oldgamesarchive.org/zh-cn/games/kobodeluxe)
+
+Browser source, build instructions, controls, attribution and known limits are in
+[browser/README.md](browser/README.md) and [browser/BUILD.md](browser/BUILD.md).
+This is a browser integration of the community SDL2 port, not a new game or the first web port.
+Kobo Deluxe is by David Olofson and contributors, based on Akira Higuchi's XKobo;
+this fork retains ruohoruotsi's port history and all original authors and licenses.
+
+---
+
 # Kobo Deluxe Ports
 
 
