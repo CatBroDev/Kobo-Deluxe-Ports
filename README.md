@@ -2,13 +2,22 @@
 
 [Play online](https://oldgamesarchive.org/games/kobodeluxe) · [中文试玩](https://oldgamesarchive.org/zh-cn/games/kobodeluxe)
 
-Browser source, build instructions, controls, attribution and known limits are in
-[browser/README.md](browser/README.md) and [browser/BUILD.md](browser/BUILD.md).
-This is a browser integration of the community SDL2 port, not a new game or the first web port.
-Kobo Deluxe is by David Olofson and contributors, based on Akira Higuchi's XKobo;
-this fork retains ruohoruotsi's port history and all original authors and licenses.
+## About this fork
 
----
+Old Games Archive restores and documents older games to make them easier to play in today's browsers. Kobo Deluxe is a good fit for that work: its eight-way combat and original artwork are worth keeping accessible, and its published source gives us a practical way to address browser compatibility problems.
+
+The browser integration here is maintained by CatBroDev. Source, build instructions, controls and known limits are in [browser/README.md](browser/README.md) and [browser/BUILD.md](browser/BUILD.md).
+
+Kobo Deluxe is by David Olofson and contributors, based on Akira Higuchi's XKobo. This fork builds on ruohoruotsi's SDL2 port and retains the upstream history, author credits and licenses. It is a browser adaptation of that work, not a newly created game or a claim to be its first web port.
+
+## Historical README from upstream
+
+The original port notes below were written by ruohoruotsi. Their first-person statements describe the upstream maintainer's own motivation, not CatBroDev's personal history or Old Games Archive's. Platform and version notes refer to that historical port.
+
+<details>
+<summary>Read the original port notes and license</summary>
+
+[Original README at the source snapshot](https://github.com/ruohoruotsi/Kobo-Deluxe-Ports/blob/2edc48fc17e21af4ff20912b6205bb0025f8f909/README.md)
 
 # Kobo Deluxe Ports
 
@@ -56,3 +65,5 @@ Each port are organized individually on branches as follows:
   with this program; if not, write to the Free Software Foundation, Inc.,
   675 Mass Ave, Cambridge, MA 02139, USA.
 ```
+
+</details>
